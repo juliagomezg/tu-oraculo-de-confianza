@@ -226,6 +226,19 @@ export default function Home() {
                   <span className="text-purple-400 font-semibold">Julia Gomez</span>
                 </span>
               </div>
+              
+              {/* Custom GPT Reference */}
+              <div className="mb-3">
+                <a 
+                  href="https://chatgpt.com/share/685c5976-d020-8000-be17-a41124ecea9f" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-purple-300/70 hover:text-purple-400 transition-colors font-mono text-xs"
+                >
+                  🤖 ¿Quieres conocer más? Prueba mi GPT personalizado
+                </a>
+              </div>
+              
               <div className="flex items-center justify-center space-x-6 text-xs">
                 <a 
                   href="https://www.instagram.com/juliagomezg/" 
