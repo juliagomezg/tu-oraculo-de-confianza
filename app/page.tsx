@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Sparkles, Moon, Star, Gem, RefreshCw } from 'lucide-react';
+import { Sparkles, Moon, Star, Gem, RefreshCw, Instagram, Github, Linkedin } from 'lucide-react';
 import { getTodaysMessage, getAlternativeMessage, type DailyMessage } from '@/lib/oracle';
 import { TypewriterText } from '@/components/TypewriterText';
 import { CosmicBackground } from '@/components/CosmicBackground';
@@ -231,27 +231,27 @@ export default function Home() {
                   href="https://www.instagram.com/juliagomezg/" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono"
+                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono group"
                 >
-                  <span>📸</span>
+                  <Instagram className="w-4 h-4 group-hover:scale-110 transition-transform" />
                   <span>Instagram</span>
                 </a>
                 <a 
                   href="https://github.com/juliagomezg/" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono"
+                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono group"
                 >
-                  <span>💻</span>
+                  <Github className="w-4 h-4 group-hover:scale-110 transition-transform" />
                   <span>GitHub</span>
                 </a>
                 <a 
                   href="https://linkedin.com/in/juliagomezg/" 
                   target="_blank" 
                   rel="noopener noreferrer"
-                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono"
+                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono group"
                 >
-                  <span>💼</span>
+                  <Linkedin className="w-4 h-4 group-hover:scale-110 transition-transform" />
                   <span>LinkedIn</span>
                 </a>
               </div>
