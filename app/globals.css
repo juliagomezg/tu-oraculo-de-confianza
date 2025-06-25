@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&display=swap');
+
+:root {
+  --mystic-bg: #0a0a0a;
+  --mystic-primary: #8b5cf6;
+  --mystic-secondary: #fbbf24;
+  --mystic-accent: #06b6d4;
+  --mystic-text: #e5e7eb;
+  --mystic-muted: #6b7280;
+}
+
+@layer base {
+  :root {
+    --background: 10 10% 4%;
+    --foreground: 210 20% 90%;
+    --card: 10 10% 6%;
+    --card-foreground: 210 20% 88%;
+    --popover: 10 10% 6%;
+    --popover-foreground: 210 20% 90%;
+    --primary: 262 83% 58%;
+    --primary-foreground: 210 20% 98%;
+    --secondary: 45 93% 47%;
+    --secondary-foreground: 10 10% 4%;
+    --muted: 215 28% 17%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 188 95% 43%;
+    --accent-foreground: 210 20% 98%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 20% 98%;
+    --border: 215 28% 17%;
+    --input: 215 28% 17%;
+    --ring: 262 83% 58%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'JetBrains Mono', monospace;
+    background: radial-gradient(ellipse at center, rgba(139, 92, 246, 0.1) 0%, rgba(10, 10, 10, 1) 70%);
+  }
+}
+
+@layer components {
+  .mystic-glow {
+    box-shadow: 0 0 20px rgba(139, 92, 246, 0.3);
+  }
+  
+  .terminal-cursor::after {
+    content: '|';
+    animation: blink 1s infinite;
+    color: #8b5cf6;
+  }
+  
+  .typewriter {
+    overflow: hidden;
+    border-right: 2px solid #8b5cf6;
+    white-space: nowrap;
+    margin: 0 auto;
+    animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+  }
+  
+  .cosmic-border {
+    background: linear-gradient(45deg, #8b5cf6, #06b6d4, #fbbf24, #8b5cf6);
+    background-size: 400% 400%;
+    animation: gradient 8s ease infinite;
+    padding: 2px;
+    border-radius: 12px;
+  }
+  
+  .cosmic-border > div {
+    background: hsl(var(--card));
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: #8b5cf6; }
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.float-animation {
+  animation: float 6s ease-in-out infinite;
+}

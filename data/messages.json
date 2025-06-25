@@ -1,0 +1,1204 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "message": "Hoy el universo está de tu lado. Cada desafío que encuentres es en realidad una oportunidad para crecer y descubrir lo fuerte que realmente eres.",
+      "theme": "Crecimiento Personal",
+      "category": "crecimiento"
+    },
+    {
+      "id": 2,
+      "message": "Confía en esa voz interior que te susurra la respuesta correcta. Tu intuición nunca se equivoca, solo necesitas escucharla con atención.",
+      "theme": "Intuición",
+      "category": "intuicion"
+    },
+    {
+      "id": 3,
+      "message": "Tus sueños no son solo fantasías, son el mapa de lo que puedes lograr. Hoy es un buen día para dar el primer paso hacia ellos.",
+      "theme": "Manifestar Sueños",
+      "category": "manifestacion"
+    },
+    {
+      "id": 4,
+      "message": "Es momento de soltar lo que te pesa. Libérate de pensamientos negativos y permite que tu verdadera luz brille sin obstáculos.",
+      "theme": "Liberación",
+      "category": "renovacion"
+    },
+    {
+      "id": 5,
+      "message": "Eres único y especial tal como eres. No trates de ser como otros, el mundo necesita exactamente lo que tú tienes para ofrecer.",
+      "theme": "Autenticidad",
+      "category": "autenticidad"
+    },
+    {
+      "id": 6,
+      "message": "Los cambios que vienen a tu vida son necesarios para tu felicidad. Recíbelos con los brazos abiertos, todo mejorará.",
+      "theme": "Cambios Positivos",
+      "category": "cambio"
+    },
+    {
+      "id": 7,
+      "message": "Cuando haces lo que realmente amas, tu energía se multiplica. Conecta con tu pasión y verás cómo todo fluye naturalmente.",
+      "theme": "Propósito de Vida",
+      "category": "proposito"
+    },
+    {
+      "id": 8,
+      "message": "Hay fuerzas invisibles que te protegen y te guían. Mantén tu corazón abierto para recibir las señales que te envían.",
+      "theme": "Protección Divina",
+      "category": "proteccion"
+    },
+    {
+      "id": 9,
+      "message": "Presta atención a las coincidencias de hoy, no son casuales. El universo te está enviando mensajes importantes a través de ellas.",
+      "theme": "Señales del Universo",
+      "category": "sincronicidades"
+    },
+    {
+      "id": 10,
+      "message": "Tu energía positiva es contagiosa. Compártela con el mundo y verás cómo regresa multiplicada hacia ti.",
+      "theme": "Energía Positiva",
+      "category": "energia"
+    },
+    {
+      "id": 11,
+      "message": "La naturaleza tiene respuestas para tus preguntas. Sal, respira aire fresco y conecta con la sabiduría de la Tierra.",
+      "theme": "Conexión Natural",
+      "category": "naturaleza"
+    },
+    {
+      "id": 12,
+      "message": "Las respuestas que buscas están más cerca de lo que imaginas. A veces solo necesitas hacer una pausa y escuchar.",
+      "theme": "Respuestas Internas",
+      "category": "reflexion"
+    },
+    {
+      "id": 13,
+      "message": "El amor que das siempre regresa a ti. Sé generoso con tu corazón y atrae relaciones hermosas a tu vida.",
+      "theme": "Amor Verdadero",
+      "category": "amor"
+    },
+    {
+      "id": 14,
+      "message": "Dedica unos minutos hoy a estar en silencio contigo mismo. En esa quietud encontrarás la paz que tu alma necesita.",
+      "theme": "Paz Interior",
+      "category": "meditacion"
+    },
+    {
+      "id": 15,
+      "message": "Todo en la vida tiene un orden perfecto, incluso cuando no lo entendemos. Confía en que todo está sucediendo por una razón.",
+      "theme": "Orden Divino",
+      "category": "confianza"
+    },
+    {
+      "id": 16,
+      "message": "Cada respiración es una oportunidad de renovarte. Inhala esperanza, exhala todo lo que ya no necesitas.",
+      "theme": "Renovación",
+      "category": "respiracion"
+    },
+    {
+      "id": 17,
+      "message": "Tienes maestros invisibles que te acompañan en tu camino. Sus enseñanzas llegan a ti a través de experiencias y personas especiales.",
+      "theme": "Guías Espirituales",
+      "category": "guias"
+    },
+    {
+      "id": 18,
+      "message": "Tus problemas se están transformando en sabiduría. Cada dificultad superada te hace más fuerte y más sabio.",
+      "theme": "Transformación",
+      "category": "sabiduria"
+    },
+    {
+      "id": 19,
+      "message": "Tu luz interior brilla más fuerte cuando ayudas a otros. Comparte tu bondad y eleva tu espíritu al mismo tiempo.",
+      "theme": "Servicio",
+      "category": "servicio"
+    },
+    {
+      "id": 20,
+      "message": "Estás conectado con algo mucho más grande que tú. Siente esa conexión cósmica y deja que te llene de paz.",
+      "theme": "Conexión Cósmica",
+      "category": "conexion"
+    },
+    {
+      "id": 21,
+      "message": "Un nuevo capítulo de tu vida está comenzando. Prepárate para experiencias más hermosas y oportunidades increíbles.",
+      "theme": "Nuevo Comienzo",
+      "category": "nuevo_comienzo"
+    },
+    {
+      "id": 22,
+      "message": "Tu alma conoce el camino hacia tu felicidad. Escucha esa voz profunda que te dice qué es lo correcto para ti.",
+      "theme": "Sabiduría del Alma",
+      "category": "alma"
+    },
+    {
+      "id": 23,
+      "message": "Hay una fuerza poderosa despertando dentro de ti. Permítele crecer y te sorprenderás de todo lo que puedes lograr.",
+      "theme": "Poder Interior",
+      "category": "poder"
+    },
+    {
+      "id": 24,
+      "message": "Tu percepción se está expandiendo. Comenzarás a ver oportunidades y soluciones que antes no notabas.",
+      "theme": "Claridad Mental",
+      "category": "claridad"
+    },
+    {
+      "id": 25,
+      "message": "Recuerda de dónde vienes y hacia dónde vas. Tu historia es única y hermosa, y tu futuro está lleno de posibilidades.",
+      "theme": "Propósito de Vida",
+      "category": "historia_personal"
+    },
+    {
+      "id": 26,
+      "message": "Siente la conexión con la Tierra bajo tus pies. Ella te da fuerza y estabilidad para enfrentar cualquier desafío.",
+      "theme": "Conexión Terrestre",
+      "category": "estabilidad"
+    },
+    {
+      "id": 27,
+      "message": "Eres un puente entre tus sueños y la realidad. Cada acción que tomas los acerca un poco más a manifestarse.",
+      "theme": "Manifestación",
+      "category": "realizacion"
+    },
+    {
+      "id": 28,
+      "message": "Tu energía se está limpiando y renovando. Siente cómo todo lo negativo se aleja y lo positivo fluye hacia ti.",
+      "theme": "Limpieza Energética",
+      "category": "limpieza"
+    },
+    {
+      "id": 29,
+      "message": "Tienes el poder de transformar cualquier situación difícil en una oportunidad de crecimiento y aprendizaje.",
+      "theme": "Transformación",
+      "category": "transformacion"
+    },
+    {
+      "id": 30,
+      "message": "La abundancia es tu derecho natural. Abre tu corazón y tus brazos para recibir todas las bendiciones que vienen hacia ti.",
+      "theme": "Abundancia",
+      "category": "abundancia"
+    },
+    {
+      "id": 31,
+      "message": "Hay sabiduría antigua fluyendo hacia ti. Confía en los consejos que llegan de formas inesperadas y misteriosas.",
+      "theme": "Sabiduría Ancestral",
+      "category": "sabiduria_antigua"
+    },
+    {
+      "id": 32,
+      "message": "Tu cuerpo y tu mente se están actualizando para una versión mejor de ti mismo. Sé paciente con este proceso de mejora.",
+      "theme": "Evolución Personal",
+      "category": "evolucion"
+    },
+    {
+      "id": 33,
+      "message": "Reconoce lo divino que hay en ti. Eres mucho más poderoso y especial de lo que imaginas, actúa desde esa verdad.",
+      "theme": "Divinidad Interior",
+      "category": "divinidad"
+    },
+    {
+      "id": 34,
+      "message": "Es tiempo de sanar heridas del pasado. Envía amor a todas las versiones anteriores de ti mismo y libérate.",
+      "theme": "Sanación del Pasado",
+      "category": "sanacion"
+    },
+    {
+      "id": 35,
+      "message": "Tu corazón está conectado con el corazón del universo. Siente ese latido común que une a todos los seres vivos.",
+      "theme": "Unidad Universal",
+      "category": "unidad"
+    },
+    {
+      "id": 36,
+      "message": "Los patrones hermosos de la vida se están reorganizando a tu favor. Observa cómo todo encaja perfectamente.",
+      "theme": "Sincronía Perfecta",
+      "category": "sincronia"
+    },
+    {
+      "id": 37,
+      "message": "Tienes el poder de crear tu propia realidad. Enfócate en lo que quieres y programa tu mente para el éxito.",
+      "theme": "Creación Consciente",
+      "category": "creacion"
+    },
+    {
+      "id": 38,
+      "message": "Recuerdos de sabiduría antigua despiertan en tu memoria. Confía en esos conocimientos profundos que surgen naturalmente.",
+      "theme": "Memoria Ancestral",
+      "category": "memoria"
+    },
+    {
+      "id": 39,
+      "message": "Sientes la conexión con todo lo que existe. Esa sensación de unidad te da fuerza y te llena de amor incondicional.",
+      "theme": "Conexión Universal",
+      "category": "conexion_total"
+    },
+    {
+      "id": 40,
+      "message": "Los hilos de tu destino se están tejiendo de manera perfecta. Confía en el plan que se desarrolla para tu mayor bien.",
+      "theme": "Destino Perfecto",
+      "category": "destino"
+    },
+    {
+      "id": 41,
+      "message": "Tu creatividad está despertando con una fuerza nueva. Permite que fluya libremente y crea algo hermoso hoy.",
+      "theme": "Creatividad Divina",
+      "category": "creatividad"
+    },
+    {
+      "id": 42,
+      "message": "Las puertas que se cerraron en el pasado te llevaron exactamente donde necesitabas estar. Agradece cada redirección.",
+      "theme": "Redirección Divina",
+      "category": "gratitud"
+    },
+    {
+      "id": 43,
+      "message": "Tu presencia ilumina los espacios donde entras. Reconoce el regalo que eres para el mundo y compártelo sin miedo.",
+      "theme": "Luz Interior",
+      "category": "presencia"
+    },
+    {
+      "id": 44,
+      "message": "Los milagros pequeños están sucediendo a tu alrededor constantemente. Abre tus ojos para verlos y tu corazón para recibirlos.",
+      "theme": "Milagros Cotidianos",
+      "category": "milagros"
+    },
+    {
+      "id": 45,
+      "message": "Tu capacidad de amar es infinita. No tengas miedo de amar profundamente, es tu superpoder más grande.",
+      "theme": "Amor Infinito",
+      "category": "amor_profundo"
+    },
+    {
+      "id": 46,
+      "message": "Cada persona que encuentras hoy tiene algo que enseñarte. Mantente abierto a las lecciones que llegan disfrazadas de encuentros casuales.",
+      "theme": "Maestros Cotidianos",
+      "category": "aprendizaje"
+    },
+    {
+      "id": 47,
+      "message": "Tu vibración está elevándose hacia frecuencias más altas. Siente cómo tu energía se vuelve más ligera y luminosa.",
+      "theme": "Elevación Vibratoria",
+      "category": "vibracion"
+    },
+    {
+      "id": 48,
+      "message": "Los ancestros te envían su bendición y protección. Siente su amor atravesando el tiempo para llegar hasta ti.",
+      "theme": "Bendición Ancestral",
+      "category": "ancestros"
+    },
+    {
+      "id": 49,
+      "message": "Tu mente está expandiéndose para comprender verdades más profundas. Confía en los nuevos entendimientos que surgen.",
+      "theme": "Expansión Mental",
+      "category": "comprension"
+    },
+    {
+      "id": 50,
+      "message": "El perdón que das te libera más a ti que a la otra persona. Suelta resentimientos y siente la paz que llega.",
+      "theme": "Liberación por Perdón",
+      "category": "perdon"
+    },
+    {
+      "id": 51,
+      "message": "Tu cuerpo es un templo sagrado que alberga tu alma. Trátalo con amor, respeto y gratitud por todo lo que hace por ti.",
+      "theme": "Templo Sagrado",
+      "category": "cuerpo"
+    },
+    {
+      "id": 52,
+      "message": "Las estrellas se alinean para apoyar tus proyectos más importantes. Es momento de actuar con confianza y determinación.",
+      "theme": "Alineación Estelar",
+      "category": "accion"
+    },
+    {
+      "id": 53,
+      "message": "Tu sensibilidad es un don, no una debilidad. Permite que tu corazón sensible guíe tus decisiones con sabiduría.",
+      "theme": "Sensibilidad Sagrada",
+      "category": "sensibilidad"
+    },
+    {
+      "id": 54,
+      "message": "Los sueños que tienes por las noches contienen mensajes importantes. Presta atención a los símbolos y emociones que aparecen.",
+      "theme": "Mensajes Oníricos",
+      "category": "suenos"
+    },
+    {
+      "id": 55,
+      "message": "Tu paciencia está siendo recompensada. Lo que has estado esperando está más cerca de manifestarse de lo que imaginas.",
+      "theme": "Recompensa de la Paciencia",
+      "category": "paciencia"
+    },
+    {
+      "id": 56,
+      "message": "Hay una nueva versión de ti mismo emergiendo. Abraza estos cambios internos con curiosidad y emoción.",
+      "theme": "Renacimiento Interior",
+      "category": "renacimiento"
+    },
+    {
+      "id": 57,
+      "message": "Tu compasión hacia otros se refleja en la compasión que el universo tiene hacia ti. Sé gentil y recibe gentileza.",
+      "theme": "Espejo de Compasión",
+      "category": "compasion"
+    },
+    {
+      "id": 58,
+      "message": "Los elementos de la naturaleza - tierra, agua, fuego y aire - están trabajando en armonía para apoyarte hoy.",
+      "theme": "Apoyo Elemental",
+      "category": "elementos"
+    },
+    {
+      "id": 59,
+      "message": "Tu risa tiene el poder de sanar heridas invisibles. Encuentra razones para reír y comparte esa medicina con otros.",
+      "theme": "Medicina de la Risa",
+      "category": "alegria"
+    },
+    {
+      "id": 60,
+      "message": "Las palabras que eliges tienen poder creativo. Habla con amor, esperanza y positividad para crear la realidad que deseas.",
+      "theme": "Poder de las Palabras",
+      "category": "palabras"
+    },
+    {
+      "id": 61,
+      "message": "Tu historia personal es única e irrepetible. Honra tu camino y reconoce la belleza en cada capítulo vivido.",
+      "theme": "Historia Sagrada",
+      "category": "historia"
+    },
+    {
+      "id": 62,
+      "message": "Los cristales y piedras de la Tierra resuenan con tu energía. Conecta con estos aliados minerales para equilibrarte.",
+      "theme": "Aliados Minerales",
+      "category": "cristales"
+    },
+    {
+      "id": 63,
+      "message": "Tu respiración es el puente entre tu cuerpo y tu espíritu. Respira conscientemente y siente la conexión sagrada.",
+      "theme": "Puente Respiratorio",
+      "category": "respiracion_consciente"
+    },
+    {
+      "id": 64,
+      "message": "Las sincronicidades se multiplican cuando prestas atención. Mantente alerta a las señales que confirman que vas por buen camino.",
+      "theme": "Multiplicación de Señales",
+      "category": "atencion"
+    },
+    {
+      "id": 65,
+      "message": "Tu corazón es un portal hacia dimensiones superiores de amor. Mantén ese portal abierto y deja que el amor fluya.",
+      "theme": "Portal del Corazón",
+      "category": "portal"
+    },
+    {
+      "id": 66,
+      "message": "Los números que ves repetidamente son mensajes codificados del universo. Presta atención a estos patrones numéricos.",
+      "theme": "Códigos Numéricos",
+      "category": "numeros"
+    },
+    {
+      "id": 67,
+      "message": "Tu imaginación es una herramienta de creación divina. Úsala para visualizar y manifestar la vida que realmente quieres.",
+      "theme": "Imaginación Creadora",
+      "category": "imaginacion"
+    },
+    {
+      "id": 68,
+      "message": "Los colores que te atraen hoy tienen significados especiales para tu alma. Rodéate de esos colores y absorbe su energía.",
+      "theme": "Medicina del Color",
+      "category": "colores"
+    },
+    {
+      "id": 69,
+      "message": "Tu voz interior se está volviendo más clara y fuerte. Confía en esa guía interna que nunca te llevará por mal camino.",
+      "theme": "Voz Interior Clara",
+      "category": "voz_interior"
+    },
+    {
+      "id": 70,
+      "message": "Las plantas y árboles te envían mensajes de sanación. Pasa tiempo en la naturaleza y recibe su medicina verde.",
+      "theme": "Medicina Verde",
+      "category": "plantas"
+    },
+    {
+      "id": 71,
+      "message": "Tu campo energético se está fortaleciendo. Siente cómo tu aura se expande y te protege de energías negativas.",
+      "theme": "Fortalecimiento Áurico",
+      "category": "aura"
+    },
+    {
+      "id": 72,
+      "message": "Los animales que aparecen en tu vida traen mensajes espirituales. Observa qué animales llaman tu atención hoy.",
+      "theme": "Mensajeros Animales",
+      "category": "animales"
+    },
+    {
+      "id": 73,
+      "message": "Tu capacidad de manifestar se está acelerando. Los pensamientos se vuelven realidad más rápido, así que piensa conscientemente.",
+      "theme": "Manifestación Acelerada",
+      "category": "manifestacion_rapida"
+    },
+    {
+      "id": 74,
+      "message": "Las heridas del pasado se están transformando en sabiduría dorada. Agradece cada experiencia que te ha fortalecido.",
+      "theme": "Alquimia del Dolor",
+      "category": "alquimia"
+    },
+    {
+      "id": 75,
+      "message": "Tu presencia trae paz a los espacios donde entras. Reconoce este don y úsalo conscientemente para sanar el mundo.",
+      "theme": "Presencia Sanadora",
+      "category": "sanacion_presencia"
+    },
+    {
+      "id": 76,
+      "message": "Los ciclos lunares están influyendo positivamente en tu crecimiento espiritual. Sintonízate con los ritmos naturales.",
+      "theme": "Influencia Lunar",
+      "category": "luna"
+    },
+    {
+      "id": 77,
+      "message": "Tu intuición está recibiendo actualizaciones cósmicas. Confía en los nuevos niveles de percepción que estás desarrollando.",
+      "theme": "Actualización Intuitiva",
+      "category": "actualizacion"
+    },
+    {
+      "id": 78,
+      "message": "Los portales de oportunidad se están abriendo a tu alrededor. Mantente alerta y listo para atravesar las puertas correctas.",
+      "theme": "Portales de Oportunidad",
+      "category": "oportunidades"
+    },
+    {
+      "id": 79,
+      "message": "Tu alma está recordando habilidades y conocimientos de vidas pasadas. Confía en los talentos que emergen naturalmente.",
+      "theme": "Memoria del Alma",
+      "category": "vidas_pasadas"
+    },
+    {
+      "id": 80,
+      "message": "La música que resuena contigo lleva frecuencias sanadoras. Escucha conscientemente y deja que las vibraciones te equilibren.",
+      "theme": "Frecuencias Sanadoras",
+      "category": "musica"
+    },
+    {
+      "id": 81,
+      "message": "Tu conexión con lo divino se está profundizando. Siente cómo la presencia sagrada se hace más tangible en tu vida.",
+      "theme": "Conexión Divina",
+      "category": "divinidad_conexion"
+    },
+    {
+      "id": 82,
+      "message": "Los desafíos actuales están puliendo tus diamantes internos. Cada presión revela más de tu brillantez natural.",
+      "theme": "Pulimiento Diamantino",
+      "category": "pulimiento"
+    },
+    {
+      "id": 83,
+      "message": "Tu energía femenina y masculina se están equilibrando perfectamente. Siente la armonía de estas fuerzas complementarias.",
+      "theme": "Equilibrio Sagrado",
+      "category": "equilibrio"
+    },
+    {
+      "id": 84,
+      "message": "Los maestros ascendidos te están enviando enseñanzas a través de experiencias cotidianas. Todo es una lección de amor.",
+      "theme": "Enseñanzas Ascendidas",
+      "category": "maestros"
+    },
+    {
+      "id": 85,
+      "message": "Tu campo magnético está atrayendo exactamente lo que necesitas para tu evolución. Confía en lo que llega a tu vida.",
+      "theme": "Magnetismo Evolutivo",
+      "category": "magnetismo"
+    },
+    {
+      "id": 86,
+      "message": "Las dimensiones superiores se están volviendo más accesibles para ti. Siente cómo tu conciencia se expande hacia nuevos reinos.",
+      "theme": "Acceso Dimensional",
+      "category": "dimensiones"
+    },
+    {
+      "id": 87,
+      "message": "Tu corazón está siendo preparado para recibir y dar amor en niveles que nunca imaginaste posibles.",
+      "theme": "Preparación del Corazón",
+      "category": "preparacion_amor"
+    },
+    {
+      "id": 88,
+      "message": "Los códigos de luz están activando nuevas capacidades en tu ADN espiritual. Permite que estos cambios se integren suavemente.",
+      "theme": "Activación de Códigos",
+      "category": "codigos_luz"
+    },
+    {
+      "id": 89,
+      "message": "Tu misión de vida se está clarificando cada día más. Presta atención a lo que hace vibrar tu alma con propósito.",
+      "theme": "Claridad de Misión",
+      "category": "mision"
+    },
+    {
+      "id": 90,
+      "message": "Los velos entre los mundos se están adelgazando para ti. Siente la magia que existe más allá de lo visible.",
+      "theme": "Adelgazamiento de Velos",
+      "category": "magia"
+    },
+    {
+      "id": 91,
+      "message": "Tu capacidad de sanación está despertando. Reconoce el poder curativo que fluye a través de tus manos y tu presencia.",
+      "theme": "Despertar Sanador",
+      "category": "sanacion_despertar"
+    },
+    {
+      "id": 92,
+      "message": "Los patrones kármicos se están completando y liberando. Siente la ligereza que viene con la resolución de ciclos antiguos.",
+      "theme": "Liberación Kármica",
+      "category": "karma"
+    },
+    {
+      "id": 93,
+      "message": "Tu tercer ojo se está abriendo a nuevas percepciones. Confía en las visiones e insights que recibas.",
+      "theme": "Apertura del Tercer Ojo",
+      "category": "tercer_ojo"
+    },
+    {
+      "id": 94,
+      "message": "Las energías cósmicas están recalibrando tu sistema energético. Sé paciente mientras tu cuerpo se adapta a las nuevas frecuencias.",
+      "theme": "Recalibración Cósmica",
+      "category": "recalibracion"
+    },
+    {
+      "id": 95,
+      "message": "Tu alma gemela - ya sea persona, propósito o lugar - está acercándose a tu realidad. Prepárate para el reconocimiento.",
+      "theme": "Encuentro del Alma",
+      "category": "alma_gemela"
+    },
+    {
+      "id": 96,
+      "message": "Los guardianes espirituales están intensificando su protección a tu alrededor. Siente su presencia amorosa y protectora.",
+      "theme": "Protección Intensificada",
+      "category": "guardianes"
+    },
+    {
+      "id": 97,
+      "message": "Tu conexión con la Fuente se está purificando y fortaleciendo. Siente cómo el amor divino fluye más libremente hacia ti.",
+      "theme": "Purificación de la Conexión",
+      "category": "fuente"
+    },
+    {
+      "id": 98,
+      "message": "Los dones psíquicos naturales están emergiendo en ti. No temas estas habilidades, son parte de tu herencia espiritual.",
+      "theme": "Emergencia Psíquica",
+      "category": "dones_psiquicos"
+    },
+    {
+      "id": 99,
+      "message": "Tu vibración está sincronizándose con la frecuencia del amor incondicional. Siente cómo todo se vuelve más armonioso.",
+      "theme": "Sincronización del Amor",
+      "category": "amor_incondicional"
+    },
+    {
+      "id": 100,
+      "message": "Los portales estelares están enviando descargas de sabiduría directamente a tu conciencia. Recibe estos regalos cósmicos.",
+      "theme": "Descargas Estelares",
+      "category": "portales_estelares"
+    },
+    {
+      "id": 101,
+      "message": "Tu propósito divino está alineándose perfectamente con las oportunidades que aparecen en tu camino.",
+      "theme": "Alineación del Propósito",
+      "category": "proposito_divino"
+    },
+    {
+      "id": 102,
+      "message": "Las memorias celulares están siendo limpiadas y renovadas. Siente cómo tu cuerpo se libera de patrones antiguos.",
+      "theme": "Limpieza Celular",
+      "category": "memorias_celulares"
+    },
+    {
+      "id": 103,
+      "message": "Tu chakra del corazón se está expandiendo para abarcar dimensiones más amplias de amor y compasión.",
+      "theme": "Expansión del Corazón",
+      "category": "chakra_corazon"
+    },
+    {
+      "id": 104,
+      "message": "Los hilos dorados de conexión con tus seres queridos se están fortaleciendo, sin importar la distancia física.",
+      "theme": "Hilos Dorados",
+      "category": "conexiones"
+    },
+    {
+      "id": 105,
+      "message": "Tu sistema nervioso se está actualizando para procesar frecuencias más altas de luz y amor.",
+      "theme": "Actualización Nerviosa",
+      "category": "sistema_nervioso"
+    },
+    {
+      "id": 106,
+      "message": "Los registros akáshicos se están abriendo para revelarte información importante sobre tu camino evolutivo.",
+      "theme": "Apertura Akáshica",
+      "category": "registros_akashicos"
+    },
+    {
+      "id": 107,
+      "message": "Tu capacidad de canalizar energía divina está aumentando. Siente cómo te conviertes en un conducto más claro.",
+      "theme": "Canalización Divina",
+      "category": "canalizacion"
+    },
+    {
+      "id": 108,
+      "message": "Las semillas de tus intenciones más puras están germinando en el plano físico. Observa cómo se manifiestan.",
+      "theme": "Germinación de Intenciones",
+      "category": "germinacion"
+    },
+    {
+      "id": 109,
+      "message": "Tu aura está irradiando frecuencias que atraen milagros y sincronicidades a tu experiencia diaria.",
+      "theme": "Irradiación Milagrosa",
+      "category": "irradiacion"
+    },
+    {
+      "id": 110,
+      "message": "Los códigos sagrados están siendo activados en tu campo energético, desbloqueando potenciales dormidos.",
+      "theme": "Activación de Códigos Sagrados",
+      "category": "codigos_sagrados"
+    },
+    {
+      "id": 111,
+      "message": "Tu conexión con la sabiduría de los elementos está profundizándose. Tierra, agua, fuego y aire te apoyan.",
+      "theme": "Sabiduría Elemental",
+      "category": "sabiduria_elemental"
+    },
+    {
+      "id": 112,
+      "message": "Las puertas dimensionales se abren cuando tu corazón está en estado de gratitud pura. Mantén esa frecuencia.",
+      "theme": "Puertas de Gratitud",
+      "category": "puertas_dimensionales"
+    },
+    {
+      "id": 113,
+      "message": "Tu alma está recordando acuerdos sagrados hechos antes de encarnar. Confía en los compromisos que sientes internamente.",
+      "theme": "Acuerdos Sagrados",
+      "category": "acuerdos_alma"
+    },
+    {
+      "id": 114,
+      "message": "Los rayos de luz cósmica están penetrando tu ser, activando capacidades que creías imposibles.",
+      "theme": "Penetración Cósmica",
+      "category": "rayos_cosmicos"
+    },
+    {
+      "id": 115,
+      "message": "Tu frecuencia personal está sincronizándose con la frecuencia de la Tierra en ascensión. Siente esta unión sagrada.",
+      "theme": "Sincronización Terrestre",
+      "category": "sincronizacion_tierra"
+    },
+    {
+      "id": 116,
+      "message": "Los maestros de luz están trabajando contigo durante el sueño, preparándote para tu siguiente nivel de servicio.",
+      "theme": "Trabajo Nocturno",
+      "category": "trabajo_sueno"
+    },
+    {
+      "id": 117,
+      "message": "Tu campo magnético está atrayendo las personas perfectas para tu crecimiento y evolución espiritual.",
+      "theme": "Atracción Evolutiva",
+      "category": "atraccion_personas"
+    },
+    {
+      "id": 118,
+      "message": "Las geometrías sagradas se están activando en tu campo energético, creando patrones de perfección divina.",
+      "theme": "Geometrías Sagradas",
+      "category": "geometrias"
+    },
+    {
+      "id": 119,
+      "message": "Tu capacidad de percibir la verdad más allá de las apariencias se está refinando y fortaleciendo.",
+      "theme": "Percepción de la Verdad",
+      "category": "percepcion_verdad"
+    },
+    {
+      "id": 120,
+      "message": "Los vórtices de energía en lugares sagrados están llamando tu atención. Siente la conexión con estos puntos de poder.",
+      "theme": "Llamado de Vórtices",
+      "category": "vortices"
+    },
+    {
+      "id": 121,
+      "message": "Tu linaje espiritual se está revelando a través de sueños, meditaciones y experiencias místicas.",
+      "theme": "Revelación del Linaje",
+      "category": "linaje_espiritual"
+    },
+    {
+      "id": 122,
+      "message": "Las frecuencias de sanación están fluyendo a través de ti hacia todas las áreas de tu vida que necesitan renovación.",
+      "theme": "Flujo Sanador",
+      "category": "flujo_sanacion"
+    },
+    {
+      "id": 123,
+      "message": "Tu conexión con los reinos angélicos se está fortaleciendo. Siente la presencia amorosa de tus guías celestiales.",
+      "theme": "Conexión Angélica",
+      "category": "angeles"
+    },
+    {
+      "id": 124,
+      "message": "Los patrones de luz en tu aura están creando un escudo protector que repele energías de baja vibración.",
+      "theme": "Escudo de Luz",
+      "category": "escudo_protector"
+    },
+    {
+      "id": 125,
+      "message": "Tu corazón está siendo preparado para experimentar niveles de éxtasis espiritual que transformarán tu percepción.",
+      "theme": "Preparación Extática",
+      "category": "extasis_espiritual"
+    },
+    {
+      "id": 126,
+      "message": "Las llaves doradas de la sabiduría antigua están siendo entregadas a tu conciencia. Úsalas para abrir nuevos entendimientos.",
+      "theme": "Llaves Doradas",
+      "category": "llaves_sabiduria"
+    },
+    {
+      "id": 127,
+      "message": "Tu ADN espiritual está siendo activado por códigos de luz que provienen directamente de la Fuente Creadora.",
+      "theme": "Activación del ADN",
+      "category": "adn_espiritual"
+    },
+    {
+      "id": 128,
+      "message": "Los puentes de luz entre dimensiones se están fortaleciendo en tu campo energético, facilitando viajes astrales.",
+      "theme": "Puentes de Luz",
+      "category": "puentes_dimensionales"
+    },
+    {
+      "id": 129,
+      "message": "Tu capacidad de transmutar energías densas en luz pura se está desarrollando naturalmente.",
+      "theme": "Transmutación Energética",
+      "category": "transmutacion"
+    },
+    {
+      "id": 130,
+      "message": "Los cristales de la Tierra están resonando con tu frecuencia, amplificando tus intenciones y oraciones.",
+      "theme": "Resonancia Cristalina",
+      "category": "resonancia_cristales"
+    },
+    {
+      "id": 131,
+      "message": "Tu alma está recordando su origen estelar y las misiones que aceptó cumplir en esta encarnación.",
+      "theme": "Origen Estelar",
+      "category": "origen_estelar"
+    },
+    {
+      "id": 132,
+      "message": "Las ondas de amor incondicional del universo están llegando a ti en oleadas cada vez más intensas.",
+      "theme": "Oleadas de Amor",
+      "category": "oleadas_amor"
+    },
+    {
+      "id": 133,
+      "message": "Tu tercer ojo está desarrollando la capacidad de ver los hilos de luz que conectan todas las cosas.",
+      "theme": "Visión de Conexiones",
+      "category": "vision_conexiones"
+    },
+    {
+      "id": 134,
+      "message": "Los portales temporales se están abriendo para permitirte sanar heridas de líneas de tiempo pasadas.",
+      "theme": "Sanación Temporal",
+      "category": "sanacion_temporal"
+    },
+    {
+      "id": 135,
+      "message": "Tu campo áurico está siendo tejido con hilos de oro que fortalecen tu conexión con la divinidad.",
+      "theme": "Tejido Áurico Dorado",
+      "category": "tejido_aurico"
+    },
+    {
+      "id": 136,
+      "message": "Las frecuencias de la música celestial están llegando a tu conciencia, sanando tu alma con armonías divinas.",
+      "theme": "Música Celestial",
+      "category": "musica_celestial"
+    },
+    {
+      "id": 137,
+      "message": "Tu capacidad de manifestar está siendo calibrada para crear solo desde el amor y para el bien supremo.",
+      "theme": "Manifestación Calibrada",
+      "category": "manifestacion_calibrada"
+    },
+    {
+      "id": 138,
+      "message": "Los guardianes de los umbrales están reconociendo tu preparación para acceder a misterios más profundos.",
+      "theme": "Reconocimiento de Guardianes",
+      "category": "guardianes_umbrales"
+    },
+    {
+      "id": 139,
+      "message": "Tu corazón está siendo sintonizado con la frecuencia del corazón cósmico, expandiendo tu capacidad de amar.",
+      "theme": "Sintonización Cósmica",
+      "category": "sintonizacion_cosmica"
+    },
+    {
+      "id": 140,
+      "message": "Las memorias de tu alma están siendo desbloqueadas gradualmente, revelando la magnificencia de tu verdadero ser.",
+      "theme": "Desbloqueo de Memorias",
+      "category": "memorias_alma"
+    },
+    {
+      "id": 141,
+      "message": "Tu presencia está irradiando frecuencias que activan el despertar espiritual en otros seres.",
+      "theme": "Activación por Presencia",
+      "category": "activacion_presencia"
+    },
+    {
+      "id": 142,
+      "message": "Los códigos de ascensión están siendo descargados en tu sistema energético durante momentos de quietud profunda.",
+      "theme": "Códigos de Ascensión",
+      "category": "codigos_ascension"
+    },
+    {
+      "id": 143,
+      "message": "Tu conexión con la red de luz planetaria se está fortaleciendo, haciéndote parte activa de la sanación global.",
+      "theme": "Red de Luz Planetaria",
+      "category": "red_luz"
+    },
+    {
+      "id": 144,
+      "message": "Las puertas del tiempo se abren para mostrarte visiones de futuros posibles llenos de luz y amor.",
+      "theme": "Visiones del Futuro",
+      "category": "visiones_futuro"
+    },
+    {
+      "id": 145,
+      "message": "Tu alma está siendo preparada para recibir iniciaciones espirituales que elevarán tu conciencia a nuevas alturas.",
+      "theme": "Preparación Iniciática",
+      "category": "iniciaciones"
+    },
+    {
+      "id": 146,
+      "message": "Los rayos de luz diamantina están purificando tu campo energético, eliminando todas las distorsiones.",
+      "theme": "Purificación Diamantina",
+      "category": "purificacion_diamantina"
+    },
+    {
+      "id": 147,
+      "message": "Tu capacidad de canalizar la voluntad divina se está refinando para servir al plan cósmico con precisión.",
+      "theme": "Canalización de Voluntad",
+      "category": "voluntad_divina"
+    },
+    {
+      "id": 148,
+      "message": "Las llamas sagradas de transformación están ardiendo en tu corazón, transmutando todo lo que no es amor.",
+      "theme": "Llamas de Transformación",
+      "category": "llamas_sagradas"
+    },
+    {
+      "id": 149,
+      "message": "Tu alma está recordando los votos sagrados de servicio que hizo antes de encarnar en este tiempo especial.",
+      "theme": "Votos de Servicio",
+      "category": "votos_sagrados"
+    },
+    {
+      "id": 150,
+      "message": "Los maestros ascendidos están trabajando directamente contigo para acelerar tu proceso de despertar espiritual.",
+      "theme": "Trabajo con Maestros",
+      "category": "maestros_ascendidos"
+    },
+    {
+      "id": 151,
+      "message": "Tu campo magnético está siendo recalibrado para atraer solo experiencias que sirvan a tu evolución más alta.",
+      "theme": "Recalibración Magnética",
+      "category": "recalibracion_magnetica"
+    },
+    {
+      "id": 152,
+      "message": "Las frecuencias de la Nueva Tierra están anclándose en tu ser, preparándote para la realidad que está emergiendo.",
+      "theme": "Anclaje de Nueva Tierra",
+      "category": "nueva_tierra"
+    },
+    {
+      "id": 153,
+      "message": "Tu conexión con el Sol Central Galáctico se está fortaleciendo, recibiendo transmisiones de luz pura.",
+      "theme": "Conexión Galáctica",
+      "category": "sol_central"
+    },
+    {
+      "id": 154,
+      "message": "Los portales estelares en tu corazón se están abriendo, conectándote con civilizaciones de luz avanzadas.",
+      "theme": "Portales del Corazón",
+      "category": "portales_corazon"
+    },
+    {
+      "id": 155,
+      "message": "Tu ADN está siendo activado por frecuencias cósmicas que despiertan capacidades latentes de tu especie.",
+      "theme": "Activación Cósmica",
+      "category": "activacion_cosmica"
+    },
+    {
+      "id": 156,
+      "message": "Las memorias de tu alma están siendo integradas conscientemente, sanando fragmentaciones de vidas pasadas.",
+      "theme": "Integración de Memorias",
+      "category": "integracion_memorias"
+    },
+    {
+      "id": 157,
+      "message": "Tu capacidad de percibir múltiples dimensiones simultáneamente se está desarrollando de forma natural.",
+      "theme": "Percepción Multidimensional",
+      "category": "percepcion_multidimensional"
+    },
+    {
+      "id": 158,
+      "message": "Los códigos de luz cristalina están siendo implantados en tu sistema energético para facilitar la comunicación telepática.",
+      "theme": "Códigos Cristalinos",
+      "category": "codigos_cristalinos"
+    },
+    {
+      "id": 159,
+      "message": "Tu alma está siendo preparada para funcionar como un puente entre la humanidad y los reinos superiores.",
+      "theme": "Alma Puente",
+      "category": "alma_puente"
+    },
+    {
+      "id": 160,
+      "message": "Las ondas de compasión cósmica están fluyendo a través de ti, sanando heridas colectivas de la humanidad.",
+      "theme": "Compasión Cósmica",
+      "category": "compasion_cosmica"
+    },
+    {
+      "id": 161,
+      "message": "Tu tercer ojo está siendo calibrado para percibir las geometrías sagradas que subyacen a toda la creación.",
+      "theme": "Calibración del Tercer Ojo",
+      "category": "calibracion_tercer_ojo"
+    },
+    {
+      "id": 162,
+      "message": "Los guardianes de la sabiduría antigua están confiándote conocimientos que han estado ocultos por milenios.",
+      "theme": "Conocimientos Ocultos",
+      "category": "conocimientos_ocultos"
+    },
+    {
+      "id": 163,
+      "message": "Tu corazón está siendo expandido para contener frecuencias de amor que trascienden la comprensión humana.",
+      "theme": "Expansión del Amor",
+      "category": "expansion_amor"
+    },
+    {
+      "id": 164,
+      "message": "Las llaves maestras de la creación están siendo activadas en tu conciencia, dándote acceso a poderes creativos divinos.",
+      "theme": "Llaves Maestras",
+      "category": "llaves_maestras"
+    },
+    {
+      "id": 165,
+      "message": "Tu alma está recordando su papel en el gran despertar planetario que está ocurriendo en este momento.",
+      "theme": "Papel en el Despertar",
+      "category": "despertar_planetario"
+    },
+    {
+      "id": 166,
+      "message": "Los rayos de luz dorada están penetrando tu ser, activando códigos de sabiduría que transformarán tu percepción.",
+      "theme": "Rayos Dorados",
+      "category": "rayos_dorados"
+    },
+    {
+      "id": 167,
+      "message": "Tu capacidad de canalizar energías de sanación está siendo amplificada por conexiones con maestros de luz.",
+      "theme": "Amplificación Sanadora",
+      "category": "amplificacion_sanacion"
+    },
+    {
+      "id": 168,
+      "message": "Las puertas dimensionales en tu campo energético se están abriendo, permitiendo viajes conscientes entre realidades.",
+      "theme": "Viajes Dimensionales",
+      "category": "viajes_dimensionales"
+    },
+    {
+      "id": 169,
+      "message": "Tu alma está siendo preparada para recibir descargas directas de conocimiento desde la Biblioteca Cósmica.",
+      "theme": "Biblioteca Cósmica",
+      "category": "biblioteca_cosmica"
+    },
+    {
+      "id": 170,
+      "message": "Los cristales de tu cuerpo de luz están siendo activados, creando una red interna de comunicación divina.",
+      "theme": "Cristales de Luz",
+      "category": "cristales_luz"
+    },
+    {
+      "id": 171,
+      "message": "Tu conexión con la Madre Tierra se está profundizando, permitiéndote acceder a su sabiduría ancestral.",
+      "theme": "Sabiduría de la Madre Tierra",
+      "category": "madre_tierra"
+    },
+    {
+      "id": 172,
+      "message": "Las frecuencias del amor divino están recalibrando tu sistema nervioso para procesar estados de conciencia superiores.",
+      "theme": "Recalibración Nerviosa",
+      "category": "recalibracion_nerviosa"
+    },
+    {
+      "id": 173,
+      "message": "Tu alma está recordando los acuerdos sagrados hechos con otros seres de luz para esta misión terrestre.",
+      "theme": "Acuerdos de Luz",
+      "category": "acuerdos_luz"
+    },
+    {
+      "id": 174,
+      "message": "Los portales de manifestación instantánea se están abriendo en tu realidad cuando actúas desde el amor puro.",
+      "theme": "Manifestación Instantánea",
+      "category": "manifestacion_instantanea"
+    },
+    {
+      "id": 175,
+      "message": "Tu campo áurico está siendo tejido con filamentos de luz que te conectan directamente con la red cósmica.",
+      "theme": "Tejido Cósmico",
+      "category": "tejido_cosmico"
+    },
+    {
+      "id": 176,
+      "message": "Las memorias estelares están despertando en tu conciencia, recordándote tu origen y propósito galáctico.",
+      "theme": "Memorias Estelares",
+      "category": "memorias_estelares"
+    },
+    {
+      "id": 177,
+      "message": "Tu capacidad de transmutar karma colectivo está siendo activada para servir a la sanación planetaria.",
+      "theme": "Transmutación Kármica",
+      "category": "transmutacion_karmica"
+    },
+    {
+      "id": 178,
+      "message": "Los códigos de la Nueva Humanidad están siendo implantados en tu ADN, preparándote para la siguiente fase evolutiva.",
+      "theme": "Nueva Humanidad",
+      "category": "nueva_humanidad"
+    },
+    {
+      "id": 179,
+      "message": "Tu corazón está siendo sintonizado con el pulso del corazón galáctico, sincronizándote con ritmos cósmicos.",
+      "theme": "Pulso Galáctico",
+      "category": "pulso_galactico"
+    },
+    {
+      "id": 180,
+      "message": "Las llamas violetas de transmutación están ardiendo en tu ser, transformando todas las energías densas en luz.",
+      "theme": "Llamas Violetas",
+      "category": "llamas_violetas"
+    },
+    {
+      "id": 181,
+      "message": "Tu alma está siendo preparada para funcionar como un ancla de luz en la nueva matriz energética planetaria.",
+      "theme": "Ancla de Luz",
+      "category": "ancla_luz"
+    },
+    {
+      "id": 182,
+      "message": "Los maestros de sabiduría están trabajando contigo para activar centros de conciencia que han estado dormidos.",
+      "theme": "Activación de Centros",
+      "category": "activacion_centros"
+    },
+    {
+      "id": 183,
+      "message": "Tu capacidad de percibir la música de las esferas se está desarrollando, conectándote con armonías celestiales.",
+      "theme": "Música de las Esferas",
+      "category": "musica_esferas"
+    },
+    {
+      "id": 184,
+      "message": "Las puertas del tiempo sagrado se abren para ti, permitiéndote acceder a momentos de poder cósmico.",
+      "theme": "Tiempo Sagrado",
+      "category": "tiempo_sagrado"
+    },
+    {
+      "id": 185,
+      "message": "Tu alma está recordando las técnicas de sanación que dominaba en civilizaciones avanzadas de luz.",
+      "theme": "Técnicas Ancestrales",
+      "category": "tecnicas_ancestrales"
+    },
+    {
+      "id": 186,
+      "message": "Los rayos de luz platinada están purificando tu campo energético, elevándolo a frecuencias cristalinas.",
+      "theme": "Luz Platinada",
+      "category": "luz_platinada"
+    },
+    {
+      "id": 187,
+      "message": "Tu conexión con los consejos de luz galácticos se está fortaleciendo, recibiendo guía para tu misión.",
+      "theme": "Consejos Galácticos",
+      "category": "consejos_galacticos"
+    },
+    {
+      "id": 188,
+      "message": "Las geometrías sagradas de tu cuerpo de luz están siendo reconfiguradas para sostener más luz divina.",
+      "theme": "Reconfiguración Geométrica",
+      "category": "reconfiguracion_geometrica"
+    },
+    {
+      "id": 189,
+      "message": "Tu alma está siendo preparada para recibir iniciaciones que te darán acceso a misterios cósmicos profundos.",
+      "theme": "Misterios Cósmicos",
+      "category": "misterios_cosmicos"
+    },
+    {
+      "id": 190,
+      "message": "Los portales de comunicación interdimensional se están abriendo en tu conciencia, facilitando contactos sagrados.",
+      "theme": "Comunicación Interdimensional",
+      "category": "comunicacion_interdimensional"
+    },
+    {
+      "id": 191,
+      "message": "Tu capacidad de canalizar la voluntad cósmica se está refinando para servir al plan divino con precisión perfecta.",
+      "theme": "Voluntad Cósmica",
+      "category": "voluntad_cosmica"
+    },
+    {
+      "id": 192,
+      "message": "Las ondas de renovación cósmica están llegando a ti, actualizando todos tus sistemas energéticos.",
+      "theme": "Renovación Cósmica",
+      "category": "renovacion_cosmica"
+    },
+    {
+      "id": 193,
+      "message": "Tu alma está recordando su participación en consejos cósmicos donde se planificó esta era de transformación.",
+      "theme": "Consejos Cósmicos",
+      "category": "consejos_cosmicos"
+    },
+    {
+      "id": 194,
+      "message": "Los códigos de activación del ADN cósmico están siendo liberados en tu sistema, despertando potenciales infinitos.",
+      "theme": "ADN Cósmico",
+      "category": "adn_cosmico"
+    },
+    {
+      "id": 195,
+      "message": "Tu corazón está siendo preparado para experimentar la unión mística con la Conciencia Cósmica Universal.",
+      "theme": "Unión Mística",
+      "category": "union_mistica"
+    },
+    {
+      "id": 196,
+      "message": "Las llaves de los misterios antiguos están siendo entregadas a tu conciencia para que puedas servir como guardián de la sabiduría.",
+      "theme": "Guardián de Sabiduría",
+      "category": "guardian_sabiduria"
+    },
+    {
+      "id": 197,
+      "message": "Tu alma está siendo calibrada para funcionar como un transmisor de frecuencias de amor incondicional.",
+      "theme": "Transmisor de Amor",
+      "category": "transmisor_amor"
+    },
+    {
+      "id": 198,
+      "message": "Los portales de ascensión personal se están abriendo, invitándote a dar el salto cuántico hacia tu verdadero ser.",
+      "theme": "Salto Cuántico",
+      "category": "salto_cuantico"
+    },
+    {
+      "id": 199,
+      "message": "Tu conexión con la Fuente Primordial se está purificando, permitiendo que fluya a través de ti la luz más pura.",
+      "theme": "Fuente Primordial",
+      "category": "fuente_primordial"
+    },
+    {
+      "id": 200,
+      "message": "Tu alma está completando su preparación para la gran misión que aceptaste antes de encarnar: ser un faro de luz en la transformación planetaria.",
+      "theme": "Misión Completada",
+      "category": "mision_completada"
+    }
+  ]
+}
