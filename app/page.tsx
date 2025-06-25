@@ -230,7 +230,7 @@ export default function Home() {
               {/* Custom GPT Reference */}
               <div className="mb-3">
                 <a 
-                  href="https://chatgpt.com/share/685c5976-d020-8000-be17-a41124ecea9f" 
+                  href="https://chatgpt.com/g/g-2B4kfoWjr-stellar-guide" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-purple-300/70 hover:text-purple-400 transition-colors font-mono text-xs"
