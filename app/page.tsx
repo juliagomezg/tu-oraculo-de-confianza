@@ -217,6 +217,45 @@ export default function Home() {
                 </div>
               )}
             </div>
+
+            {/* Developer Credit */}
+            <div className="text-center mt-6 pt-6 border-t border-purple-500/20">
+              <div className="flex items-center justify-center mb-3">
+                <span className="text-purple-300/80 font-mono text-sm">
+                  💜 Programado con amor por{' '}
+                  <span className="text-purple-400 font-semibold">Julia Gomez</span>
+                </span>
+              </div>
+              <div className="flex items-center justify-center space-x-6 text-xs">
+                <a 
+                  href="https://www.instagram.com/juliagomezg/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono"
+                >
+                  <span>📸</span>
+                  <span>Instagram</span>
+                </a>
+                <a 
+                  href="https://github.com/juliagomezg/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono"
+                >
+                  <span>💻</span>
+                  <span>GitHub</span>
+                </a>
+                <a 
+                  href="https://linkedin.com/in/juliagomezg/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="flex items-center space-x-1 text-purple-300/60 hover:text-purple-400 transition-colors font-mono"
+                >
+                  <span>💼</span>
+                  <span>LinkedIn</span>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
