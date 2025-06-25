@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Sparkles, Moon, Star, Gem, RefreshCw, Instagram, Github, Linkedin } from 'lucide-react';
-import { getTodaysMessage, getAlternativeMessage, type DailyMessage } from '@/lib/oracle';
+import { getTodaysMessage, getAlternativeMessage, getMomentMessage, type DailyMessage } from '@/lib/oracle';
 import { TypewriterText } from '@/components/TypewriterText';
 import { CosmicBackground } from '@/components/CosmicBackground';
 
@@ -32,7 +32,7 @@ export default function Home() {
   useEffect(() => {
     const loadMessage = async () => {
       try {
-        const dailyMessage = getTodaysMessage();
+        const dailyMessage = getMomentMessage();
         setMessage(dailyMessage);
       } catch (error) {
         console.error('Error loading message:', error);

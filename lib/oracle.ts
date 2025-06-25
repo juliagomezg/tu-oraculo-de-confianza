@@ -7,14 +7,16 @@ export interface DailyMessage {
   category: string;
 }
 
-// Función para generar un número pseudo-aleatorio basado en la fecha
+// Función para generar un número pseudo-aleatorio basado en la fecha y hora
 function getDateSeed(date: Date): number {
   const year = date.getFullYear();
   const month = date.getMonth() + 1;
   const day = date.getDate();
+  const hour = date.getHours();
+  const minute = Math.floor(date.getMinutes() / 10); // Cambiar cada 10 minutos
   
-  // Crear un seed único basado en la fecha
-  return (year * 10000) + (month * 100) + day;
+  // Crear un seed único basado en la fecha y hora
+  return (year * 100000000) + (month * 1000000) + (day * 10000) + (hour * 100) + minute;
 }
 
 // Función para generar múltiples números pseudo-aleatorios a partir de un seed
@@ -29,6 +31,35 @@ export function getTodaysMessage(): DailyMessage {
   
   // Usar el seed para seleccionar un mensaje de forma determinística
   const messageIndex = Math.floor(seededRandom(seed) * messagesData.messages.length);
+  
+  return messagesData.messages[messageIndex];
+}
+
+// Nueva función: Mensaje con variación por momento del día
+export function getMomentMessage(): DailyMessage {
+  const now = new Date();
+  const seed = getDateSeed(now);
+  
+  // Usar el seed completo con hora para más variación
+  const messageIndex = Math.floor(seededRandom(seed) * messagesData.messages.length);
+  
+  return messagesData.messages[messageIndex];
+}
+
+// Nueva función: Mensaje con seed personalizado (para diferentes lecturas)
+export function getPersonalizedMessage(personalSeed: string = ''): DailyMessage {
+  const now = new Date();
+  const baseSeed = getDateSeed(now);
+  
+  // Combinar seed de fecha con un factor personal
+  let combinedSeed = baseSeed;
+  if (personalSeed) {
+    for (let i = 0; i < personalSeed.length; i++) {
+      combinedSeed += personalSeed.charCodeAt(i);
+    }
+  }
+  
+  const messageIndex = Math.floor(seededRandom(combinedSeed) * messagesData.messages.length);
   
   return messagesData.messages[messageIndex];
 }
